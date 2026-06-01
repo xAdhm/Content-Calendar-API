@@ -11,5 +11,4 @@ public record Content(
     LocalDateTime dateCreated,
     LocalDateTime dateUpdated,
     String url
-) {
-}
+) {}
